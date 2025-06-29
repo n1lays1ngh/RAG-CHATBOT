@@ -36,7 +36,7 @@ export default function ChatBox() {
   };
 
   return (
-    <div className="max-w-2xl mx-auto p-4">
+    <div className="w-3/4 pt-[60px] pr-[30px] pl-[60px] mx-auto">
       <div className="bg-white border rounded-lg shadow-md p-4 h-[70vh] overflow-y-auto mb-4">
         {messages.map((msg, index) => (
           <div
