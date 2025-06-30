@@ -136,6 +136,7 @@ Built by **Nilay Singh**
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
-> *(Add screenshots of your UI here once ready)*
+> ### 🗨️ Chat Interface
+![Chat UI](./Screenshots/Frontend.png)
