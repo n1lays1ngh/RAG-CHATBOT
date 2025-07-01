@@ -142,7 +142,7 @@ Built by **Nilay Singh**
 ![Chat UI](./Screenshots/Frontend.png)
 
 >### 📄⬆️ Document Upload Demo
-![Document Upload](./Screenshots/DocumentUploading.gif)
+![Document Upload](./Screenshots/DocumentUploading_1.gif)
 
 >### 🤖🧪 Chatbot Testing
 ![Chatbot Testing](./Screenshots/RAG-CHATBOT_testing.gif)
