@@ -140,3 +140,10 @@ Built by **Nilay Singh**
 
 > ### 🗨️ Chat Interface
 ![Chat UI](./Screenshots/Frontend.png)
+
+>### 📄⬆️ Document Upload Demo
+![Document Upload](./Screenshots/DocumentUploading.gif)
+
+>### 🤖🧪 Chatbot Testing
+![Chatbot Testing](./Screenshots/RAG-CHATBOT_testing.gif)
+
