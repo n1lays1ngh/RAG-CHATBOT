@@ -1,4 +1,4 @@
-# backend/ingest.py
+
 
 from fastapi import APIRouter, UploadFile, File, HTTPException
 from utils.embedder import get_embeddings

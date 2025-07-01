@@ -1,4 +1,4 @@
-// src/components/ChatBox.jsx
+
 
 import { useState } from 'react';
 import { sendQueryToBackend } from '../api';
@@ -22,7 +22,7 @@ export default function ChatBox() {
       setMessages([...newMessages, assistantMessage]);
     } catch (err) {
       console.error("Chat error:", err);
-      setMessages([...newMessages, { role: 'assistant', content: "❌ Error getting response" }]);
+      setMessages([...newMessages, { role: 'assistant', content: " Error getting a response" }]);
     } finally {
       setIsLoading(false);
     }
